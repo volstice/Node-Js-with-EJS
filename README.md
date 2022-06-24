@@ -1,6 +1,1 @@
-# Example
-
-To run this example:
-
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
+Hello this project here is Based on Embedded Javascript which was used instead of HTML for its dymanics Its a simple Register-Login webpage Project
